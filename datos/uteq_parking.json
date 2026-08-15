@@ -1,0 +1,2086 @@
+{
+  "espacios": {
+    "A01": {
+      "id": "A01",
+      "columna": 1,
+      "numero": 1,
+      "distanciaDetectada": 228.5,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01227759,
+        "longitud": -79.46818333,
+        "boundingBox": {
+          "norte": -1.01226176,
+          "sur": -1.01229335,
+          "oeste": -79.46828659,
+          "este": -79.46808002
+        }
+      }
+    },
+    "A02": {
+      "id": "A02",
+      "columna": 1,
+      "numero": 2,
+      "distanciaDetectada": 35.1,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.0122896,
+        "longitud": -79.46818409,
+        "boundingBox": {
+          "norte": -1.01227383,
+          "sur": -1.01230529,
+          "oeste": -79.46828729,
+          "este": -79.46808084
+        }
+      }
+    },
+    "A03": {
+      "id": "A03",
+      "columna": 1,
+      "numero": 3,
+      "distanciaDetectada": 122.1,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.0123016,
+        "longitud": -79.46818486,
+        "boundingBox": {
+          "norte": -1.01228591,
+          "sur": -1.01231723,
+          "oeste": -79.46828799,
+          "este": -79.46808166
+        }
+      }
+    },
+    "A04": {
+      "id": "A04",
+      "columna": 1,
+      "numero": 4,
+      "distanciaDetectada": 32.2,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01231361,
+        "longitud": -79.46818562,
+        "boundingBox": {
+          "norte": -1.01229798,
+          "sur": -1.01232917,
+          "oeste": -79.46828869,
+          "este": -79.46808249
+        }
+      }
+    },
+    "A05": {
+      "id": "A05",
+      "columna": 1,
+      "numero": 5,
+      "distanciaDetectada": 81.7,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01232562,
+        "longitud": -79.46818638,
+        "boundingBox": {
+          "norte": -1.01231006,
+          "sur": -1.01234111,
+          "oeste": -79.46828939,
+          "este": -79.46808331
+        }
+      }
+    },
+    "A06": {
+      "id": "A06",
+      "columna": 1,
+      "numero": 6,
+      "distanciaDetectada": 41.3,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01233762,
+        "longitud": -79.46818714,
+        "boundingBox": {
+          "norte": -1.01232213,
+          "sur": -1.01235305,
+          "oeste": -79.46829009,
+          "este": -79.46808413
+        }
+      }
+    },
+    "A07": {
+      "id": "A07",
+      "columna": 1,
+      "numero": 7,
+      "distanciaDetectada": 107.2,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01234963,
+        "longitud": -79.4681879,
+        "boundingBox": {
+          "norte": -1.01233421,
+          "sur": -1.01236498,
+          "oeste": -79.46829079,
+          "este": -79.46808495
+        }
+      }
+    },
+    "A08": {
+      "id": "A08",
+      "columna": 1,
+      "numero": 8,
+      "distanciaDetectada": 44,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01236164,
+        "longitud": -79.46818866,
+        "boundingBox": {
+          "norte": -1.01234628,
+          "sur": -1.01237692,
+          "oeste": -79.46829149,
+          "este": -79.46808578
+        }
+      }
+    },
+    "A09": {
+      "id": "A09",
+      "columna": 1,
+      "numero": 9,
+      "distanciaDetectada": 40.9,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01237364,
+        "longitud": -79.46818942,
+        "boundingBox": {
+          "norte": -1.01235836,
+          "sur": -1.01238886,
+          "oeste": -79.46829219,
+          "este": -79.4680866
+        }
+      }
+    },
+    "A10": {
+      "id": "A10",
+      "columna": 1,
+      "numero": 10,
+      "distanciaDetectada": 14.3,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01238565,
+        "longitud": -79.46819019,
+        "boundingBox": {
+          "norte": -1.01237043,
+          "sur": -1.0124008,
+          "oeste": -79.46829289,
+          "este": -79.46808742
+        }
+      }
+    },
+    "A11": {
+      "id": "A11",
+      "columna": 1,
+      "numero": 11,
+      "distanciaDetectada": 162.8,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01239766,
+        "longitud": -79.46819095,
+        "boundingBox": {
+          "norte": -1.01238251,
+          "sur": -1.01241274,
+          "oeste": -79.46829359,
+          "este": -79.46808824
+        }
+      }
+    },
+    "A12": {
+      "id": "A12",
+      "columna": 1,
+      "numero": 12,
+      "distanciaDetectada": 5.9,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01240966,
+        "longitud": -79.46819171,
+        "boundingBox": {
+          "norte": -1.01239458,
+          "sur": -1.01242468,
+          "oeste": -79.46829429,
+          "este": -79.46808907
+        }
+      }
+    },
+    "A13": {
+      "id": "A13",
+      "columna": 1,
+      "numero": 13,
+      "distanciaDetectada": 41.9,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01242167,
+        "longitud": -79.46819247,
+        "boundingBox": {
+          "norte": -1.01240666,
+          "sur": -1.01243662,
+          "oeste": -79.46829499,
+          "este": -79.46808989
+        }
+      }
+    },
+    "A14": {
+      "id": "A14",
+      "columna": 1,
+      "numero": 14,
+      "distanciaDetectada": 181.3,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01243368,
+        "longitud": -79.46819323,
+        "boundingBox": {
+          "norte": -1.01241873,
+          "sur": -1.01244855,
+          "oeste": -79.46829569,
+          "este": -79.46809071
+        }
+      }
+    },
+    "A15": {
+      "id": "A15",
+      "columna": 1,
+      "numero": 15,
+      "distanciaDetectada": 124.8,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01244568,
+        "longitud": -79.46819399,
+        "boundingBox": {
+          "norte": -1.01243081,
+          "sur": -1.01246049,
+          "oeste": -79.46829639,
+          "este": -79.46809153
+        }
+      }
+    },
+    "A16": {
+      "id": "A16",
+      "columna": 1,
+      "numero": 16,
+      "distanciaDetectada": 23.9,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01245769,
+        "longitud": -79.46819475,
+        "boundingBox": {
+          "norte": -1.01244288,
+          "sur": -1.01247243,
+          "oeste": -79.46829709,
+          "este": -79.46809236
+        }
+      }
+    },
+    "A17": {
+      "id": "A17",
+      "columna": 1,
+      "numero": 17,
+      "distanciaDetectada": 241.9,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.0124697,
+        "longitud": -79.46819552,
+        "boundingBox": {
+          "norte": -1.01245496,
+          "sur": -1.01248437,
+          "oeste": -79.46829779,
+          "este": -79.46809318
+        }
+      }
+    },
+    "A18": {
+      "id": "A18",
+      "columna": 1,
+      "numero": 18,
+      "distanciaDetectada": 200.6,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.0124817,
+        "longitud": -79.46819628,
+        "boundingBox": {
+          "norte": -1.01246703,
+          "sur": -1.01249631,
+          "oeste": -79.46829849,
+          "este": -79.468094
+        }
+      }
+    },
+    "A19": {
+      "id": "A19",
+      "columna": 1,
+      "numero": 19,
+      "distanciaDetectada": 149.3,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01249371,
+        "longitud": -79.46819704,
+        "boundingBox": {
+          "norte": -1.01247911,
+          "sur": -1.01250825,
+          "oeste": -79.46829919,
+          "este": -79.46809482
+        }
+      }
+    },
+    "A20": {
+      "id": "A20",
+      "columna": 1,
+      "numero": 20,
+      "distanciaDetectada": 31.1,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01250572,
+        "longitud": -79.4681978,
+        "boundingBox": {
+          "norte": -1.01249118,
+          "sur": -1.01252018,
+          "oeste": -79.46829989,
+          "este": -79.46809565
+        }
+      }
+    },
+    "B01": {
+      "id": "B01",
+      "columna": 2,
+      "numero": 1,
+      "distanciaDetectada": 225.4,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01229718,
+        "longitud": -79.46797752,
+        "boundingBox": {
+          "norte": -1.01228142,
+          "sur": -1.01231288,
+          "oeste": -79.46808084,
+          "este": -79.46787415
+        }
+      }
+    },
+    "B02": {
+      "id": "B02",
+      "columna": 2,
+      "numero": 2,
+      "distanciaDetectada": 224.4,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01230905,
+        "longitud": -79.46797841,
+        "boundingBox": {
+          "norte": -1.01229335,
+          "sur": -1.01232468,
+          "oeste": -79.46808166,
+          "este": -79.46787509
+        }
+      }
+    },
+    "B03": {
+      "id": "B03",
+      "columna": 2,
+      "numero": 3,
+      "distanciaDetectada": 14.9,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01232092,
+        "longitud": -79.46797929,
+        "boundingBox": {
+          "norte": -1.01230529,
+          "sur": -1.01233648,
+          "oeste": -79.46808249,
+          "este": -79.46787604
+        }
+      }
+    },
+    "B04": {
+      "id": "B04",
+      "columna": 2,
+      "numero": 4,
+      "distanciaDetectada": 23.6,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01233279,
+        "longitud": -79.46798018,
+        "boundingBox": {
+          "norte": -1.01231723,
+          "sur": -1.01234828,
+          "oeste": -79.46808331,
+          "este": -79.46787698
+        }
+      }
+    },
+    "B05": {
+      "id": "B05",
+      "columna": 2,
+      "numero": 5,
+      "distanciaDetectada": 42.8,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01234466,
+        "longitud": -79.46798106,
+        "boundingBox": {
+          "norte": -1.01232917,
+          "sur": -1.01236008,
+          "oeste": -79.46808413,
+          "este": -79.46787793
+        }
+      }
+    },
+    "B06": {
+      "id": "B06",
+      "columna": 2,
+      "numero": 6,
+      "distanciaDetectada": 271.5,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01235653,
+        "longitud": -79.46798194,
+        "boundingBox": {
+          "norte": -1.01234111,
+          "sur": -1.01237189,
+          "oeste": -79.46808495,
+          "este": -79.46787887
+        }
+      }
+    },
+    "B07": {
+      "id": "B07",
+      "columna": 2,
+      "numero": 7,
+      "distanciaDetectada": 29.5,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.0123684,
+        "longitud": -79.46798283,
+        "boundingBox": {
+          "norte": -1.01235305,
+          "sur": -1.01238369,
+          "oeste": -79.46808578,
+          "este": -79.46787982
+        }
+      }
+    },
+    "B08": {
+      "id": "B08",
+      "columna": 2,
+      "numero": 8,
+      "distanciaDetectada": 8.4,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01238027,
+        "longitud": -79.46798371,
+        "boundingBox": {
+          "norte": -1.01236498,
+          "sur": -1.01239549,
+          "oeste": -79.4680866,
+          "este": -79.46788076
+        }
+      }
+    },
+    "B09": {
+      "id": "B09",
+      "columna": 2,
+      "numero": 9,
+      "distanciaDetectada": 20.4,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01239214,
+        "longitud": -79.46798459,
+        "boundingBox": {
+          "norte": -1.01237692,
+          "sur": -1.01240729,
+          "oeste": -79.46808742,
+          "este": -79.46788171
+        }
+      }
+    },
+    "B10": {
+      "id": "B10",
+      "columna": 2,
+      "numero": 10,
+      "distanciaDetectada": 156,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01240401,
+        "longitud": -79.46798548,
+        "boundingBox": {
+          "norte": -1.01238886,
+          "sur": -1.01241909,
+          "oeste": -79.46808824,
+          "este": -79.46788265
+        }
+      }
+    },
+    "B11": {
+      "id": "B11",
+      "columna": 2,
+      "numero": 11,
+      "distanciaDetectada": 45,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01241588,
+        "longitud": -79.46798636,
+        "boundingBox": {
+          "norte": -1.0124008,
+          "sur": -1.0124309,
+          "oeste": -79.46808907,
+          "este": -79.4678836
+        }
+      }
+    },
+    "B12": {
+      "id": "B12",
+      "columna": 2,
+      "numero": 12,
+      "distanciaDetectada": 208.2,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01242775,
+        "longitud": -79.46798725,
+        "boundingBox": {
+          "norte": -1.01241274,
+          "sur": -1.0124427,
+          "oeste": -79.46808989,
+          "este": -79.46788454
+        }
+      }
+    },
+    "B13": {
+      "id": "B13",
+      "columna": 2,
+      "numero": 13,
+      "distanciaDetectada": 6.5,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01243962,
+        "longitud": -79.46798813,
+        "boundingBox": {
+          "norte": -1.01242468,
+          "sur": -1.0124545,
+          "oeste": -79.46809071,
+          "este": -79.46788549
+        }
+      }
+    },
+    "B14": {
+      "id": "B14",
+      "columna": 2,
+      "numero": 14,
+      "distanciaDetectada": 96.5,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01245149,
+        "longitud": -79.46798901,
+        "boundingBox": {
+          "norte": -1.01243662,
+          "sur": -1.0124663,
+          "oeste": -79.46809153,
+          "este": -79.46788643
+        }
+      }
+    },
+    "B15": {
+      "id": "B15",
+      "columna": 2,
+      "numero": 15,
+      "distanciaDetectada": 175.4,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01246336,
+        "longitud": -79.4679899,
+        "boundingBox": {
+          "norte": -1.01244855,
+          "sur": -1.0124781,
+          "oeste": -79.46809236,
+          "este": -79.46788738
+        }
+      }
+    },
+    "B16": {
+      "id": "B16",
+      "columna": 2,
+      "numero": 16,
+      "distanciaDetectada": 21.7,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01247523,
+        "longitud": -79.46799078,
+        "boundingBox": {
+          "norte": -1.01246049,
+          "sur": -1.01248991,
+          "oeste": -79.46809318,
+          "este": -79.46788832
+        }
+      }
+    },
+    "B17": {
+      "id": "B17",
+      "columna": 2,
+      "numero": 17,
+      "distanciaDetectada": 144.8,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.0124871,
+        "longitud": -79.46799166,
+        "boundingBox": {
+          "norte": -1.01247243,
+          "sur": -1.01250171,
+          "oeste": -79.468094,
+          "este": -79.46788927
+        }
+      }
+    },
+    "B18": {
+      "id": "B18",
+      "columna": 2,
+      "numero": 18,
+      "distanciaDetectada": 15.3,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01249897,
+        "longitud": -79.46799255,
+        "boundingBox": {
+          "norte": -1.01248437,
+          "sur": -1.01251351,
+          "oeste": -79.46809482,
+          "este": -79.46789021
+        }
+      }
+    },
+    "B19": {
+      "id": "B19",
+      "columna": 2,
+      "numero": 19,
+      "distanciaDetectada": 130.2,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01251084,
+        "longitud": -79.46799343,
+        "boundingBox": {
+          "norte": -1.01249631,
+          "sur": -1.01252531,
+          "oeste": -79.46809565,
+          "este": -79.46789116
+        }
+      }
+    },
+    "B20": {
+      "id": "B20",
+      "columna": 2,
+      "numero": 20,
+      "distanciaDetectada": 34.9,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01252271,
+        "longitud": -79.46799432,
+        "boundingBox": {
+          "norte": -1.01250825,
+          "sur": -1.01253711,
+          "oeste": -79.46809647,
+          "este": -79.4678921
+        }
+      }
+    },
+    "C01": {
+      "id": "C01",
+      "columna": 3,
+      "numero": 1,
+      "distanciaDetectada": 144.8,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01231677,
+        "longitud": -79.46777172,
+        "boundingBox": {
+          "norte": -1.01230107,
+          "sur": -1.0123324,
+          "oeste": -79.46787509,
+          "este": -79.46766828
+        }
+      }
+    },
+    "C02": {
+      "id": "C02",
+      "columna": 3,
+      "numero": 2,
+      "distanciaDetectada": 201.1,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.0123285,
+        "longitud": -79.46777272,
+        "boundingBox": {
+          "norte": -1.01231288,
+          "sur": -1.01234406,
+          "oeste": -79.46787604,
+          "este": -79.46766935
+        }
+      }
+    },
+    "C03": {
+      "id": "C03",
+      "columna": 3,
+      "numero": 3,
+      "distanciaDetectada": 275.3,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01234024,
+        "longitud": -79.46777373,
+        "boundingBox": {
+          "norte": -1.01232468,
+          "sur": -1.01235573,
+          "oeste": -79.46787698,
+          "este": -79.46767041
+        }
+      }
+    },
+    "C04": {
+      "id": "C04",
+      "columna": 3,
+      "numero": 4,
+      "distanciaDetectada": 55.3,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01235197,
+        "longitud": -79.46777473,
+        "boundingBox": {
+          "norte": -1.01233648,
+          "sur": -1.01236739,
+          "oeste": -79.46787793,
+          "este": -79.46767148
+        }
+      }
+    },
+    "C05": {
+      "id": "C05",
+      "columna": 3,
+      "numero": 5,
+      "distanciaDetectada": 85.7,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.0123637,
+        "longitud": -79.46777574,
+        "boundingBox": {
+          "norte": -1.01234828,
+          "sur": -1.01237906,
+          "oeste": -79.46787887,
+          "este": -79.46767255
+        }
+      }
+    },
+    "C06": {
+      "id": "C06",
+      "columna": 3,
+      "numero": 6,
+      "distanciaDetectada": 39.9,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01237544,
+        "longitud": -79.46777675,
+        "boundingBox": {
+          "norte": -1.01236008,
+          "sur": -1.01239073,
+          "oeste": -79.46787982,
+          "este": -79.46767361
+        }
+      }
+    },
+    "C07": {
+      "id": "C07",
+      "columna": 3,
+      "numero": 7,
+      "distanciaDetectada": 130.2,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01238717,
+        "longitud": -79.46777775,
+        "boundingBox": {
+          "norte": -1.01237189,
+          "sur": -1.01240239,
+          "oeste": -79.46788076,
+          "este": -79.46767468
+        }
+      }
+    },
+    "C08": {
+      "id": "C08",
+      "columna": 3,
+      "numero": 8,
+      "distanciaDetectada": 9.2,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01239891,
+        "longitud": -79.46777876,
+        "boundingBox": {
+          "norte": -1.01238369,
+          "sur": -1.01241406,
+          "oeste": -79.46788171,
+          "este": -79.46767575
+        }
+      }
+    },
+    "C09": {
+      "id": "C09",
+      "columna": 3,
+      "numero": 9,
+      "distanciaDetectada": 23.5,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01241064,
+        "longitud": -79.46777976,
+        "boundingBox": {
+          "norte": -1.01239549,
+          "sur": -1.01242572,
+          "oeste": -79.46788265,
+          "este": -79.46767682
+        }
+      }
+    },
+    "C10": {
+      "id": "C10",
+      "columna": 3,
+      "numero": 10,
+      "distanciaDetectada": 37.4,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01242237,
+        "longitud": -79.46778077,
+        "boundingBox": {
+          "norte": -1.01240729,
+          "sur": -1.01243739,
+          "oeste": -79.4678836,
+          "este": -79.46767788
+        }
+      }
+    },
+    "C11": {
+      "id": "C11",
+      "columna": 3,
+      "numero": 11,
+      "distanciaDetectada": 42.6,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01243411,
+        "longitud": -79.46778178,
+        "boundingBox": {
+          "norte": -1.01241909,
+          "sur": -1.01244905,
+          "oeste": -79.46788454,
+          "este": -79.46767895
+        }
+      }
+    },
+    "C12": {
+      "id": "C12",
+      "columna": 3,
+      "numero": 12,
+      "distanciaDetectada": 72.6,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01244584,
+        "longitud": -79.46778278,
+        "boundingBox": {
+          "norte": -1.0124309,
+          "sur": -1.01246072,
+          "oeste": -79.46788549,
+          "este": -79.46768002
+        }
+      }
+    },
+    "C13": {
+      "id": "C13",
+      "columna": 3,
+      "numero": 13,
+      "distanciaDetectada": 249.6,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01245757,
+        "longitud": -79.46778379,
+        "boundingBox": {
+          "norte": -1.0124427,
+          "sur": -1.01247238,
+          "oeste": -79.46788643,
+          "este": -79.46768109
+        }
+      }
+    },
+    "C14": {
+      "id": "C14",
+      "columna": 3,
+      "numero": 14,
+      "distanciaDetectada": 15.7,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01246931,
+        "longitud": -79.46778479,
+        "boundingBox": {
+          "norte": -1.0124545,
+          "sur": -1.01248405,
+          "oeste": -79.46788738,
+          "este": -79.46768215
+        }
+      }
+    },
+    "C15": {
+      "id": "C15",
+      "columna": 3,
+      "numero": 15,
+      "distanciaDetectada": 38.7,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01248104,
+        "longitud": -79.4677858,
+        "boundingBox": {
+          "norte": -1.0124663,
+          "sur": -1.01249571,
+          "oeste": -79.46788832,
+          "este": -79.46768322
+        }
+      }
+    },
+    "C16": {
+      "id": "C16",
+      "columna": 3,
+      "numero": 16,
+      "distanciaDetectada": 204.2,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01249278,
+        "longitud": -79.46778681,
+        "boundingBox": {
+          "norte": -1.0124781,
+          "sur": -1.01250738,
+          "oeste": -79.46788927,
+          "este": -79.46768429
+        }
+      }
+    },
+    "C17": {
+      "id": "C17",
+      "columna": 3,
+      "numero": 17,
+      "distanciaDetectada": 58.5,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01250451,
+        "longitud": -79.46778781,
+        "boundingBox": {
+          "norte": -1.01248991,
+          "sur": -1.01251905,
+          "oeste": -79.46789021,
+          "este": -79.46768535
+        }
+      }
+    },
+    "C18": {
+      "id": "C18",
+      "columna": 3,
+      "numero": 18,
+      "distanciaDetectada": 34.3,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01251624,
+        "longitud": -79.46778882,
+        "boundingBox": {
+          "norte": -1.01250171,
+          "sur": -1.01253071,
+          "oeste": -79.46789116,
+          "este": -79.46768642
+        }
+      }
+    },
+    "C19": {
+      "id": "C19",
+      "columna": 3,
+      "numero": 19,
+      "distanciaDetectada": 20.3,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01252798,
+        "longitud": -79.46778983,
+        "boundingBox": {
+          "norte": -1.01251351,
+          "sur": -1.01254238,
+          "oeste": -79.4678921,
+          "este": -79.46768749
+        }
+      }
+    },
+    "C20": {
+      "id": "C20",
+      "columna": 3,
+      "numero": 20,
+      "distanciaDetectada": 279.4,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01253971,
+        "longitud": -79.46779083,
+        "boundingBox": {
+          "norte": -1.01252531,
+          "sur": -1.01255404,
+          "oeste": -79.46789305,
+          "este": -79.46768856
+        }
+      }
+    },
+    "D01": {
+      "id": "D01",
+      "columna": 4,
+      "numero": 1,
+      "distanciaDetectada": 37.9,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01233636,
+        "longitud": -79.46756591,
+        "boundingBox": {
+          "norte": -1.01232073,
+          "sur": -1.01235192,
+          "oeste": -79.46766935,
+          "este": -79.46746241
+        }
+      }
+    },
+    "D02": {
+      "id": "D02",
+      "columna": 4,
+      "numero": 2,
+      "distanciaDetectada": 27.2,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01234796,
+        "longitud": -79.46756704,
+        "boundingBox": {
+          "norte": -1.0123324,
+          "sur": -1.01236345,
+          "oeste": -79.46767041,
+          "este": -79.4674636
+        }
+      }
+    },
+    "D03": {
+      "id": "D03",
+      "columna": 4,
+      "numero": 3,
+      "distanciaDetectada": 13.4,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01235955,
+        "longitud": -79.46756816,
+        "boundingBox": {
+          "norte": -1.01234406,
+          "sur": -1.01237498,
+          "oeste": -79.46767148,
+          "este": -79.46746479
+        }
+      }
+    },
+    "D04": {
+      "id": "D04",
+      "columna": 4,
+      "numero": 4,
+      "distanciaDetectada": 194.4,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01237115,
+        "longitud": -79.46756929,
+        "boundingBox": {
+          "norte": -1.01235573,
+          "sur": -1.01238651,
+          "oeste": -79.46767255,
+          "este": -79.46746598
+        }
+      }
+    },
+    "D05": {
+      "id": "D05",
+      "columna": 4,
+      "numero": 5,
+      "distanciaDetectada": 225.6,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01238275,
+        "longitud": -79.46757042,
+        "boundingBox": {
+          "norte": -1.01236739,
+          "sur": -1.01239804,
+          "oeste": -79.46767361,
+          "este": -79.46746717
+        }
+      }
+    },
+    "D06": {
+      "id": "D06",
+      "columna": 4,
+      "numero": 6,
+      "distanciaDetectada": 153.7,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01239435,
+        "longitud": -79.46757155,
+        "boundingBox": {
+          "norte": -1.01237906,
+          "sur": -1.01240956,
+          "oeste": -79.46767468,
+          "este": -79.46746836
+        }
+      }
+    },
+    "D07": {
+      "id": "D07",
+      "columna": 4,
+      "numero": 7,
+      "distanciaDetectada": 64,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01240594,
+        "longitud": -79.46757268,
+        "boundingBox": {
+          "norte": -1.01239073,
+          "sur": -1.01242109,
+          "oeste": -79.46767575,
+          "este": -79.46746955
+        }
+      }
+    },
+    "D08": {
+      "id": "D08",
+      "columna": 4,
+      "numero": 8,
+      "distanciaDetectada": 27.4,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01241754,
+        "longitud": -79.46757381,
+        "boundingBox": {
+          "norte": -1.01240239,
+          "sur": -1.01243262,
+          "oeste": -79.46767682,
+          "este": -79.46747074
+        }
+      }
+    },
+    "D09": {
+      "id": "D09",
+      "columna": 4,
+      "numero": 9,
+      "distanciaDetectada": 211.6,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01242914,
+        "longitud": -79.46757493,
+        "boundingBox": {
+          "norte": -1.01241406,
+          "sur": -1.01244415,
+          "oeste": -79.46767788,
+          "este": -79.46747193
+        }
+      }
+    },
+    "D10": {
+      "id": "D10",
+      "columna": 4,
+      "numero": 10,
+      "distanciaDetectada": 160.4,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01244074,
+        "longitud": -79.46757606,
+        "boundingBox": {
+          "norte": -1.01242572,
+          "sur": -1.01245568,
+          "oeste": -79.46767895,
+          "este": -79.46747311
+        }
+      }
+    },
+    "D11": {
+      "id": "D11",
+      "columna": 4,
+      "numero": 11,
+      "distanciaDetectada": 253.4,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01245233,
+        "longitud": -79.46757719,
+        "boundingBox": {
+          "norte": -1.01243739,
+          "sur": -1.01246721,
+          "oeste": -79.46768002,
+          "este": -79.4674743
+        }
+      }
+    },
+    "D12": {
+      "id": "D12",
+      "columna": 4,
+      "numero": 12,
+      "distanciaDetectada": 21.9,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01246393,
+        "longitud": -79.46757832,
+        "boundingBox": {
+          "norte": -1.01244905,
+          "sur": -1.01247874,
+          "oeste": -79.46768109,
+          "este": -79.46747549
+        }
+      }
+    },
+    "D13": {
+      "id": "D13",
+      "columna": 4,
+      "numero": 13,
+      "distanciaDetectada": 200,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01247553,
+        "longitud": -79.46757945,
+        "boundingBox": {
+          "norte": -1.01246072,
+          "sur": -1.01249027,
+          "oeste": -79.46768215,
+          "este": -79.46747668
+        }
+      }
+    },
+    "D14": {
+      "id": "D14",
+      "columna": 4,
+      "numero": 14,
+      "distanciaDetectada": 171.6,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01248712,
+        "longitud": -79.46758058,
+        "boundingBox": {
+          "norte": -1.01247238,
+          "sur": -1.0125018,
+          "oeste": -79.46768322,
+          "este": -79.46747787
+        }
+      }
+    },
+    "D15": {
+      "id": "D15",
+      "columna": 4,
+      "numero": 15,
+      "distanciaDetectada": 49.1,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01249872,
+        "longitud": -79.46758171,
+        "boundingBox": {
+          "norte": -1.01248405,
+          "sur": -1.01251333,
+          "oeste": -79.46768429,
+          "este": -79.46747906
+        }
+      }
+    },
+    "D16": {
+      "id": "D16",
+      "columna": 4,
+      "numero": 16,
+      "distanciaDetectada": 213.1,
+      "estado": "libre",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01251032,
+        "longitud": -79.46758283,
+        "boundingBox": {
+          "norte": -1.01249571,
+          "sur": -1.01252486,
+          "oeste": -79.46768535,
+          "este": -79.46748025
+        }
+      }
+    },
+    "D17": {
+      "id": "D17",
+      "columna": 4,
+      "numero": 17,
+      "distanciaDetectada": 49.1,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01252192,
+        "longitud": -79.46758396,
+        "boundingBox": {
+          "norte": -1.01250738,
+          "sur": -1.01253638,
+          "oeste": -79.46768642,
+          "este": -79.46748144
+        }
+      }
+    },
+    "D18": {
+      "id": "D18",
+      "columna": 4,
+      "numero": 18,
+      "distanciaDetectada": 26.4,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01253351,
+        "longitud": -79.46758509,
+        "boundingBox": {
+          "norte": -1.01251905,
+          "sur": -1.01254791,
+          "oeste": -79.46768749,
+          "este": -79.46748263
+        }
+      }
+    },
+    "D19": {
+      "id": "D19",
+      "columna": 4,
+      "numero": 19,
+      "distanciaDetectada": 24.5,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01254511,
+        "longitud": -79.46758622,
+        "boundingBox": {
+          "norte": -1.01253071,
+          "sur": -1.01255944,
+          "oeste": -79.46768856,
+          "este": -79.46748382
+        }
+      }
+    },
+    "D20": {
+      "id": "D20",
+      "columna": 4,
+      "numero": 20,
+      "distanciaDetectada": 16.8,
+      "estado": "ocupado",
+      "fechaHora": 1786794603349,
+      "ubicacion": {
+        "nombre": "Parqueadero UTEQ",
+        "latitud": -1.01255671,
+        "longitud": -79.46758735,
+        "boundingBox": {
+          "norte": -1.01254238,
+          "sur": -1.01257097,
+          "oeste": -79.46768962,
+          "este": -79.46748501
+        }
+      }
+    }
+  },
+  "historial": {
+    "A01": {
+      "1786794603349": {
+        "distanciaDetectada": 228.5,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "A02": {
+      "1786794603349": {
+        "distanciaDetectada": 35.1,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "A03": {
+      "1786794603349": {
+        "distanciaDetectada": 122.1,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "A04": {
+      "1786794603349": {
+        "distanciaDetectada": 32.2,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "A05": {
+      "1786794603349": {
+        "distanciaDetectada": 81.7,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "A06": {
+      "1786794603349": {
+        "distanciaDetectada": 41.3,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "A07": {
+      "1786794603349": {
+        "distanciaDetectada": 107.2,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "A08": {
+      "1786794603349": {
+        "distanciaDetectada": 44,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "A09": {
+      "1786794603349": {
+        "distanciaDetectada": 40.9,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "A10": {
+      "1786794603349": {
+        "distanciaDetectada": 14.3,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "A11": {
+      "1786794603349": {
+        "distanciaDetectada": 162.8,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "A12": {
+      "1786794603349": {
+        "distanciaDetectada": 5.9,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "A13": {
+      "1786794603349": {
+        "distanciaDetectada": 41.9,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "A14": {
+      "1786794603349": {
+        "distanciaDetectada": 181.3,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "A15": {
+      "1786794603349": {
+        "distanciaDetectada": 124.8,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "A16": {
+      "1786794603349": {
+        "distanciaDetectada": 23.9,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "A17": {
+      "1786794603349": {
+        "distanciaDetectada": 241.9,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "A18": {
+      "1786794603349": {
+        "distanciaDetectada": 200.6,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "A19": {
+      "1786794603349": {
+        "distanciaDetectada": 149.3,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "A20": {
+      "1786794603349": {
+        "distanciaDetectada": 31.1,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "B01": {
+      "1786794603349": {
+        "distanciaDetectada": 225.4,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "B02": {
+      "1786794603349": {
+        "distanciaDetectada": 224.4,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "B03": {
+      "1786794603349": {
+        "distanciaDetectada": 14.9,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "B04": {
+      "1786794603349": {
+        "distanciaDetectada": 23.6,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "B05": {
+      "1786794603349": {
+        "distanciaDetectada": 42.8,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "B06": {
+      "1786794603349": {
+        "distanciaDetectada": 271.5,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "B07": {
+      "1786794603349": {
+        "distanciaDetectada": 29.5,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "B08": {
+      "1786794603349": {
+        "distanciaDetectada": 8.4,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "B09": {
+      "1786794603349": {
+        "distanciaDetectada": 20.4,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "B10": {
+      "1786794603349": {
+        "distanciaDetectada": 156,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "B11": {
+      "1786794603349": {
+        "distanciaDetectada": 45,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "B12": {
+      "1786794603349": {
+        "distanciaDetectada": 208.2,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "B13": {
+      "1786794603349": {
+        "distanciaDetectada": 6.5,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "B14": {
+      "1786794603349": {
+        "distanciaDetectada": 96.5,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "B15": {
+      "1786794603349": {
+        "distanciaDetectada": 175.4,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "B16": {
+      "1786794603349": {
+        "distanciaDetectada": 21.7,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "B17": {
+      "1786794603349": {
+        "distanciaDetectada": 144.8,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "B18": {
+      "1786794603349": {
+        "distanciaDetectada": 15.3,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "B19": {
+      "1786794603349": {
+        "distanciaDetectada": 130.2,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "B20": {
+      "1786794603349": {
+        "distanciaDetectada": 34.9,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "C01": {
+      "1786794603349": {
+        "distanciaDetectada": 144.8,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "C02": {
+      "1786794603349": {
+        "distanciaDetectada": 201.1,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "C03": {
+      "1786794603349": {
+        "distanciaDetectada": 275.3,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "C04": {
+      "1786794603349": {
+        "distanciaDetectada": 55.3,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "C05": {
+      "1786794603349": {
+        "distanciaDetectada": 85.7,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "C06": {
+      "1786794603349": {
+        "distanciaDetectada": 39.9,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "C07": {
+      "1786794603349": {
+        "distanciaDetectada": 130.2,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "C08": {
+      "1786794603349": {
+        "distanciaDetectada": 9.2,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "C09": {
+      "1786794603349": {
+        "distanciaDetectada": 23.5,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "C10": {
+      "1786794603349": {
+        "distanciaDetectada": 37.4,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "C11": {
+      "1786794603349": {
+        "distanciaDetectada": 42.6,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "C12": {
+      "1786794603349": {
+        "distanciaDetectada": 72.6,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "C13": {
+      "1786794603349": {
+        "distanciaDetectada": 249.6,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "C14": {
+      "1786794603349": {
+        "distanciaDetectada": 15.7,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "C15": {
+      "1786794603349": {
+        "distanciaDetectada": 38.7,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "C16": {
+      "1786794603349": {
+        "distanciaDetectada": 204.2,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "C17": {
+      "1786794603349": {
+        "distanciaDetectada": 58.5,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "C18": {
+      "1786794603349": {
+        "distanciaDetectada": 34.3,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "C19": {
+      "1786794603349": {
+        "distanciaDetectada": 20.3,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "C20": {
+      "1786794603349": {
+        "distanciaDetectada": 279.4,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "D01": {
+      "1786794603349": {
+        "distanciaDetectada": 37.9,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "D02": {
+      "1786794603349": {
+        "distanciaDetectada": 27.2,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "D03": {
+      "1786794603349": {
+        "distanciaDetectada": 13.4,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "D04": {
+      "1786794603349": {
+        "distanciaDetectada": 194.4,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "D05": {
+      "1786794603349": {
+        "distanciaDetectada": 225.6,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "D06": {
+      "1786794603349": {
+        "distanciaDetectada": 153.7,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "D07": {
+      "1786794603349": {
+        "distanciaDetectada": 64,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "D08": {
+      "1786794603349": {
+        "distanciaDetectada": 27.4,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "D09": {
+      "1786794603349": {
+        "distanciaDetectada": 211.6,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "D10": {
+      "1786794603349": {
+        "distanciaDetectada": 160.4,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "D11": {
+      "1786794603349": {
+        "distanciaDetectada": 253.4,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "D12": {
+      "1786794603349": {
+        "distanciaDetectada": 21.9,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "D13": {
+      "1786794603349": {
+        "distanciaDetectada": 200,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "D14": {
+      "1786794603349": {
+        "distanciaDetectada": 171.6,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "D15": {
+      "1786794603349": {
+        "distanciaDetectada": 49.1,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "D16": {
+      "1786794603349": {
+        "distanciaDetectada": 213.1,
+        "estado": "libre",
+        "fechaHora": 1786794603349
+      }
+    },
+    "D17": {
+      "1786794603349": {
+        "distanciaDetectada": 49.1,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "D18": {
+      "1786794603349": {
+        "distanciaDetectada": 26.4,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "D19": {
+      "1786794603349": {
+        "distanciaDetectada": 24.5,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    },
+    "D20": {
+      "1786794603349": {
+        "distanciaDetectada": 16.8,
+        "estado": "ocupado",
+        "fechaHora": 1786794603349
+      }
+    }
+  }
+}
